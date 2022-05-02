@@ -1,0 +1,46 @@
+{
+  "uid" : "8c666ee6f406ca18",
+  "name" : "should have a history",
+  "fullName" : "Protractor Demo App.should have a history",
+  "historyId" : "696c93ad8b2411075baf4f3f33d72e22",
+  "time" : {
+    "start" : 1641468417070,
+    "stop" : 1641468424326,
+    "duration" : 7256
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "failed",
+  "statusMessage" : "Expected 3 to equal 0.",
+  "statusTrace" : "Error: Failed expectation\n                    at UserContext.<anonymous> (F:\\ThoughtFrameWorks\\PROTRACTOR_Project\\protractor_tests_1\\spec.js:52:33)\n                    at C:\\Users\\admin\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\jasminewd2\\index.js:112:25\n                    at new ManagedPromise (C:\\Users\\admin\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\promise.js:1077:7)\n                    at ControlFlow.promise (C:\\Users\\admin\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\promise.js:2505:12)\n                    at schedulerExecute (C:\\Users\\admin\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\jasminewd2\\index.js:95:18)\n                    at TaskQueue.execute_ (C:\\Users\\admin\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\promise.js:3084:14)\n                    at TaskQueue.executeNext_ (C:\\Users\\admin\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\promise.js:3067:27)\n                    at C:\\Users\\admin\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\promise.js:2974:25\n                    at C:\\Users\\admin\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\promise.js:668:7",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Protractor Demo App"
+  }, {
+    "name" : "testClass",
+    "value" : "Protractor Demo App"
+  }, {
+    "name" : "testMethod",
+    "value" : "should have a history"
+  }, {
+    "name" : "package",
+    "value" : "Protractor Demo App"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "8c666ee6f406ca18.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,51 @@
+[ {
+  "uid" : "4444d0398d5e44c",
+  "name" : "should have a title",
+  "time" : {
+    "start" : 1641468882656,
+    "stop" : 1641468886897,
+    "duration" : 4241
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "c9bf2d3ee4742627",
+  "name" : "should read the value from an input",
+  "time" : {
+    "start" : 1641468886901,
+    "stop" : 1641468888104,
+    "duration" : 1203
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "d6f8803d07995b26",
+  "name" : "should have a history",
+  "time" : {
+    "start" : 1641468894258,
+    "stop" : 1641468901849,
+    "duration" : 7591
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "66cfac14f6594c0a",
+  "name" : "should add one and two",
+  "time" : {
+    "start" : 1641468888104,
+    "stop" : 1641468891394,
+    "duration" : 3290
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "3b9a1908604513b5",
+  "name" : "should add four and six",
+  "time" : {
+    "start" : 1641468891395,
+    "stop" : 1641468894258,
+    "duration" : 2863
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

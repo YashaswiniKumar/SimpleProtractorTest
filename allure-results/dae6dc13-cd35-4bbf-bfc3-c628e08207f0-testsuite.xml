@@ -1,0 +1,60 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1641468882655' stop='1641468901852'>
+    <name>Protractor Demo App</name>
+    <title>Protractor Demo App</title>
+    <test-cases>
+        <test-case start='1641468882656' status='passed' stop='1641468886897'>
+            <name>should have a title</name>
+            <title>should have a title</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1641468886901' status='passed' stop='1641468888104'>
+            <name>should read the value from an input</name>
+            <title>should read the value from an input</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1641468888104' status='passed' stop='1641468891394'>
+            <name>should add one and two</name>
+            <title>should add one and two</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1641468891395' status='passed' stop='1641468894258'>
+            <name>should add four and six</name>
+            <title>should add four and six</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1641468894258' status='failed' stop='1641468901849'>
+            <name>should have a history</name>
+            <title>should have a history</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+            <failure>
+                <message>Expected 3 to equal 0.</message>
+                <stack-trace>Error: Failed expectation
+                    at UserContext.&lt;anonymous> (F:\ThoughtFrameWorks\PROTRACTOR_Project\protractor_tests_1\spec.js:52:33)
+                    at C:\Users\admin\AppData\Roaming\npm\node_modules\protractor\node_modules\jasminewd2\index.js:112:25
+                    at new ManagedPromise (C:\Users\admin\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:1077:7)
+                    at ControlFlow.promise (C:\Users\admin\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:2505:12)
+                    at schedulerExecute (C:\Users\admin\AppData\Roaming\npm\node_modules\protractor\node_modules\jasminewd2\index.js:95:18)
+                    at TaskQueue.execute_ (C:\Users\admin\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:3084:14)
+                    at TaskQueue.executeNext_ (C:\Users\admin\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:3067:27)
+                    at C:\Users\admin\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:2974:25
+                    at C:\Users\admin\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:668:7</stack-trace>
+            </failure>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

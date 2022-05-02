@@ -1,0 +1,54 @@
+{
+  "uid" : "c9bf2d3ee4742627",
+  "name" : "should read the value from an input",
+  "fullName" : "Protractor Demo App.should read the value from an input",
+  "historyId" : "7cff34edc34bf7b80e4d0c2297e4f01",
+  "time" : {
+    "start" : 1641468886901,
+    "stop" : 1641468888104,
+    "duration" : 1203
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Protractor Demo App"
+  }, {
+    "name" : "testClass",
+    "value" : "Protractor Demo App"
+  }, {
+    "name" : "testMethod",
+    "value" : "should read the value from an input"
+  }, {
+    "name" : "package",
+    "value" : "Protractor Demo App"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "3273d889afd1cf42",
+      "status" : "passed",
+      "time" : {
+        "start" : 1641468410182,
+        "stop" : 1641468411046,
+        "duration" : 864
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "c9bf2d3ee4742627.json",
+  "parameterValues" : [ ]
+}
