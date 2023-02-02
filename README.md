@@ -70,4 +70,6 @@ Note: Browser version should be same as Driver version, otherwise leads to error
 6.For non angular applications use configuration,
 
   browser.ignoreSynchronization = true;
+  
+  
 		
